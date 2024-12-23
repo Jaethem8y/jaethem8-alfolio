@@ -11,10 +11,10 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
-<h1>Currently Unavailable</h1>
+<h1>Hopefully Coming Soon!</h1>
 {% bibliography %}
 
 </div>

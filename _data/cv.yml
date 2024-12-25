@@ -11,17 +11,14 @@
 - title: Education
   type: time_table
   contents:
-
     - title: PhD Computer Science
       institution: Iowa State University, Ames, Iowa
       year: 2029(Expected)
-    
-    - title: B.S Computer Science 
+
+    - title: B.S Computer Science
       institution: Drake Univeristy, Des Moines, Iowa
       year: 2023
-      description: 
-
-   
+      description:
 
 - title: Experience
   type: time_table
@@ -30,7 +27,7 @@
       institution: Iowa State Univeristy, Ames, Iowa
       year: Fall 2024
       description:
-          - COMS 2300 Discrete Computational Structures
+        - COMS 2300 Discrete Computational Structures
 
     - title: Software Developer
       institution: QCI, West Des Moines, Iowa
@@ -41,19 +38,17 @@
 
     - title: I.T Consultant
       institution: QCI, West Des Moines, Iowa
-      year: 2023 
+      year: 2023
       description:
         - Assuring data integrity with AWS Kinesis
         - Maintaining project architecture with Terraform
         - Maintaining AWS Lambda based backend services
-
 
     - title: Software Developer Intern
       institution: Farmers Mutual Hail, West Des Moines, Iowa
       year: June 2022
       description:
         - Maintaining Java Spring based web services
-
 
 - title: Honors and Awards
   type: time_table

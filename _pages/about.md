@@ -36,5 +36,6 @@ Following is the primary record that this webpage will have:
 1. Progress in school/research 🤔
 2. Progress in my hobbies 🤼
 3. Random rants 🗣️
+4. Blog is my hot takes 
 
 ---
